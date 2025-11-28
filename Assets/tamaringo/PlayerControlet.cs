@@ -1,4 +1,4 @@
-using UnityEngine;
+            using UnityEngine;
 
 public class PlayerControl : MonoBehaviour
 {
@@ -17,7 +17,7 @@ public class PlayerControl : MonoBehaviour
             ShootProjectile();
         }
 
-        if (Input.GetMouseButton(0))
+        if (Input.GetMouseButtonDown(0))
         {
             MoveToDirection();
         }
@@ -28,7 +28,7 @@ public class PlayerControl : MonoBehaviour
         Vector2 worlPosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Vector3 moveDirection = (worlPosition - (Vector2)transform.position).normalized;
 
-        transform.position += moveDirection * Speed * Time.deltaTime;
+        transform.position += moveDirection * Speed;
     }
 
     public void ShootProjectile()
