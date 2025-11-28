@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 0d743625be9ce6d42943a36bbf975510
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5279403352044823478
+    second: caso 2_0
+  - first:
+      213: -739641959059394898
+    second: caso 2_1
+  - first:
+      213: 4487246217489888372
+    second: caso 2_2
+  - first:
+      213: 4386465241727358255
+    second: caso 2_3
+  - first:
+      213: 8763386644926215176
+    second: caso 2_4
+  - first:
+      213: 6805038335025212789
+    second: caso 2_5
+  - first:
+      213: 667753126288341918
+    second: caso 2_6
+  - first:
+      213: -1337775266823024184
+    second: caso 2_7
+  - first:
+      213: -1570369451610691415
+    second: caso 2_8
+  - first:
+      213: 7719351408509903598
+    second: caso 2_9
+  - first:
+      213: 7844210243422085463
+    second: caso 2_10
+  - first:
+      213: 9125948643523707432
+    second: caso 2_11
+  - first:
+      213: 1041579734529822946
+    second: caso 2_12
+  - first:
+      213: 8544047870562403939
+    second: caso 2_13
+  - first:
+      213: -6037976123042073785
+    second: caso 2_14
+  - first:
+      213: -8168399471149727410
+    second: caso 2_15
+  - first:
+      213: 582479392890097766
+    second: caso 2_16
+  - first:
+      213: -5603111386859934061
+    second: caso 2_17
+  - first:
+      213: -8601106451847424226
+    second: caso 2_18
+  - first:
+      213: -4880190224585630230
+    second: caso 2_19
+  - first:
+      213: 8011370105062535486
+    second: caso 2_20
+  - first:
+      213: 7053088110786327407
+    second: caso 2_21
+  - first:
+      213: -3701346463043384531
+    second: caso 2_22
+  - first:
+      213: -6210162974742041183
+    second: caso 2_23
+  - first:
+      213: 8856674473762871573
+    second: caso 2_24
+  - first:
+      213: 4126092388916703170
+    second: caso 2_25
+  - first:
+      213: 2756336529249127857
+    second: caso 2_26
+  - first:
+      213: -3649451292145802545
+    second: caso 2_27
+  - first:
+      213: 5040360670835601235
+    second: caso 2_28
+  - first:
+      213: 642734025081118624
+    second: caso 2_29
+  - first:
+      213: 6371045445357402903
+    second: caso 2_30
+  - first:
+      213: 3934944738166441515
+    second: caso 2_31
+  - first:
+      213: 5661817072457505931
+    second: caso 2_32
+  - first:
+      213: 1166921838065414886
+    second: caso 2_33
+  - first:
+      213: -4080314128323135036
+    second: caso 2_34
+  - first:
+      213: -4902320150259867504
+    second: caso 2_35
+  - first:
+      213: -3541572281871017167
+    second: caso 2_36
+  - first:
+      213: 6440396456635064565
+    second: caso 2_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: caso 2_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 331
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c9c5f6f9acbb6b0800000000000000
+      internalID: -5279403352044823478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 272
+        width: 44
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae6a499e834cb5f0800000000000000
+      internalID: -739641959059394898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 272
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474333d09a6e54e30800000000000000
+      internalID: 4487246217489888372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 273
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25d1c895eadfdc30800000000000000
+      internalID: 4386465241727358255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 275
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804ba3029bdcd9970800000000000000
+      internalID: 8763386644926215176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 331
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57de712af4a507e50800000000000000
+      internalID: 6805038335025212789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_6
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 330
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bb2123ee5544900800000000000000
+      internalID: 667753126288341918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_7
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 330
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1d5bf8b744f6de0800000000000000
+      internalID: -1337775266823024184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 306
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8ae9ecd4de43ae0800000000000000
+      internalID: -1570369451610691415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 302
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e4a80535a02b60800000000000000
+      internalID: 7719351408509903598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 270
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75167aee7ab3cdc60800000000000000
+      internalID: 7844210243422085463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 269
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82240bf90f1e5ae70800000000000000
+      internalID: 9125948643523707432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 273
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e055e1004f647e00800000000000000
+      internalID: 1041579734529822946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_13
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 266
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3660ecc154e829670800000000000000
+      internalID: 8544047870562403939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 182
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74379c7e4bcc43ca0800000000000000
+      internalID: -6037976123042073785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 181
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41c1a285f304ae80800000000000000
+      internalID: -8168399471149727410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 213
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6601336fbe1651800800000000000000
+      internalID: 582479392890097766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 214
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e644551efbd32b0800000000000000
+      internalID: -5603111386859934061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 178
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17505ea04bb2a880800000000000000
+      internalID: -8601106451847424226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 165
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed5d3bd8d4164cb0800000000000000
+      internalID: -4880190224585630230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_20
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 215
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31bf6c1aaa1e2f60800000000000000
+      internalID: 8011370105062535486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 215
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6333f4944a91e160800000000000000
+      internalID: 7053088110786327407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 160
+        width: 55
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b86af900d22acc0800000000000000
+      internalID: -3701346463043384531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 141
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ada7356da111d9a0800000000000000
+      internalID: -6210162974742041183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 165
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519d7eb528a39ea70800000000000000
+      internalID: 8856674473762871573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_25
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 151
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfa2dfaa23d24930800000000000000
+      internalID: 4126092388916703170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_26
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 160
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdc35b3879704620800000000000000
+      internalID: 2756336529249127857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_27
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 106
+        width: 74
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc22f8aa26b8a5dc0800000000000000
+      internalID: -3649451292145802545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 109
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f610d3355f2f540800000000000000
+      internalID: 5040360670835601235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 107
+        width: 111
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af5402c0337be800800000000000000
+      internalID: 642734025081118624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 106
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bf56ac3108a6850800000000000000
+      internalID: 6371045445357402903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 105
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b260431246bbb9630800000000000000
+      internalID: 3934944738166441515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c521b31a0d29e40800000000000000
+      internalID: 5661817072457505931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2f886aa3db13010800000000000000
+      internalID: 1166921838065414886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 23
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ba413befcf57c0800000000000000
+      internalID: -4080314128323135036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 40
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09065840cc577fbb0800000000000000
+      internalID: -4902320150259867504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_36
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 40
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b55b016cec9dec0800000000000000
+      internalID: -3541572281871017167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: caso 2_37
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 39
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0ea626472e06950800000000000000
+      internalID: 6440396456635064565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      caso 2_0: -5279403352044823478
+      caso 2_1: -739641959059394898
+      caso 2_10: 7844210243422085463
+      caso 2_11: 9125948643523707432
+      caso 2_12: 1041579734529822946
+      caso 2_13: 8544047870562403939
+      caso 2_14: -6037976123042073785
+      caso 2_15: -8168399471149727410
+      caso 2_16: 582479392890097766
+      caso 2_17: -5603111386859934061
+      caso 2_18: -8601106451847424226
+      caso 2_19: -4880190224585630230
+      caso 2_2: 4487246217489888372
+      caso 2_20: 8011370105062535486
+      caso 2_21: 7053088110786327407
+      caso 2_22: -3701346463043384531
+      caso 2_23: -6210162974742041183
+      caso 2_24: 8856674473762871573
+      caso 2_25: 4126092388916703170
+      caso 2_26: 2756336529249127857
+      caso 2_27: -3649451292145802545
+      caso 2_28: 5040360670835601235
+      caso 2_29: 642734025081118624
+      caso 2_3: 4386465241727358255
+      caso 2_30: 6371045445357402903
+      caso 2_31: 3934944738166441515
+      caso 2_32: 5661817072457505931
+      caso 2_33: 1166921838065414886
+      caso 2_34: -4080314128323135036
+      caso 2_35: -4902320150259867504
+      caso 2_36: -3541572281871017167
+      caso 2_37: 6440396456635064565
+      caso 2_4: 8763386644926215176
+      caso 2_5: 6805038335025212789
+      caso 2_6: 667753126288341918
+      caso 2_7: -1337775266823024184
+      caso 2_8: -1570369451610691415
+      caso 2_9: 7719351408509903598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
